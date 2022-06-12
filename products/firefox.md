@@ -1,6 +1,7 @@
 ---
 permalink: /firefox
 title: Firefox
+nav_exclude: true
 
 releasePolicyLink: https://www.mozilla.org/firefox/
 releaseDateColumn: true

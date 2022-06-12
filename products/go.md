@@ -1,5 +1,6 @@
 ---
 title: Go
+nav_exclude: true
 permalink: /go
 alternate_urls:
 -   /golang

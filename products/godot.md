@@ -1,5 +1,6 @@
 ---
 title: Godot
+nav_exclude: true
 permalink: /godot
 category: app
 alternate_urls:

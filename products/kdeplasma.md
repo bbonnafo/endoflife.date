@@ -3,6 +3,7 @@ permalink: /kde-plasma
 alternate_urls:
 -   /kdeplasma
 title: KDE Plasma
+nav_exclude: true
 releasePolicyLink: https://community.kde.org/Schedules/Plasma_5
 activeSupportColumn: true
 releaseDateColumn: true

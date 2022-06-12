@@ -1,5 +1,6 @@
 ---
 title: Elasticsearch
+nav_exclude: false
 permalink: /elasticsearch
 category: db
 releasePolicyLink: https://www.elastic.co/support/eol

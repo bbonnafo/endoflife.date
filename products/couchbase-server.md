@@ -1,5 +1,6 @@
 ---
 title: Couchbase Server
+nav_exclude: true
 permalink: /couchbase-server
 alternate_urls:
 -   /couchbase

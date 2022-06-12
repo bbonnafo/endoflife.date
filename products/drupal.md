@@ -1,5 +1,6 @@
 ---
 title: Drupal
+nav_exclude: true
 permalink: /drupal
 releasePolicyLink: https://www.drupal.org/about/core/policies/core-release-cycles/schedule
 category: server-app

@@ -1,5 +1,6 @@
 ---
 title: API Platform
+nav_exclude: true
 permalink: /api-platform
 iconSlug: "NA"
 releasePolicyLink: https://api-platform.com/docs/extra/releases/

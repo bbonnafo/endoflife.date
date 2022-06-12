@@ -1,5 +1,6 @@
 ---
 title: Microsoft Exchange
+nav_exclude: true
 permalink: /msexchange
 iconSlug: microsoftexchange
 category: server-app

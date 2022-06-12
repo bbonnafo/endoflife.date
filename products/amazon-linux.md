@@ -1,6 +1,7 @@
 ---
 permalink: /amazon-linux
 title: Amazon Linux
+nav_exclude: true
 iconSlug: amazonaws
 category: os
 releasePolicyLink: https://aws.amazon.com/amazon-linux-2/release-notes/

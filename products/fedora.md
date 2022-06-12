@@ -1,6 +1,7 @@
 ---
 permalink: /fedora
 title: Fedora Linux
+nav_exclude: true
 releasePolicyLink: https://fedoraproject.org/wiki/End_of_life
 activeSupportColumn: false
 releaseDateColumn: true

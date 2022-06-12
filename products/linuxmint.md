@@ -1,6 +1,7 @@
 ---
 permalink: /linuxmint
 title: Linux Mint
+nav_exclude: true
 versionCommand: cat /etc/linuxmint/info
 category: os
 releasePolicyLink: https://linuxmint.com/download_all.php

@@ -1,5 +1,6 @@
 ---
 title: Android OS
+nav_exclude: true
 alternate_urls:
 -   /aosp
 -   /androidos

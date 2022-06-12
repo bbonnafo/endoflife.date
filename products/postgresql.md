@@ -1,5 +1,6 @@
 ---
 title: PostgreSQL
+nav_exclude: false
 permalink: /postgresql
 alternate_urls:
 -   /postgres

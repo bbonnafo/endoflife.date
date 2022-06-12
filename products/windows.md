@@ -1,5 +1,6 @@
 ---
 title: Windows
+nav_exclude: true
 permalink: /windows
 releasePolicyLink: https://docs.microsoft.com/lifecycle/products/?terms=Windows
 category: os

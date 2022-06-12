@@ -1,5 +1,6 @@
 ---
 title: OpenSSL
+nav_exclude: true
 category: framework
 iconSlug: openssl
 permalink: /openssl

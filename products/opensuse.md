@@ -1,5 +1,6 @@
 ---
 title: openSUSE
+nav_exclude: true
 category: os
 
 # What should be used to sort releases. Set to one of:

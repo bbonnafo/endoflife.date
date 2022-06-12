@@ -1,5 +1,6 @@
 ---
 title: Spring Framework
+nav_exclude: true
 alternate_urls:
 -   /spring
 category: framework

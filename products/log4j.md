@@ -1,5 +1,6 @@
 ---
 title: Log4j
+nav_exclude: true
 permalink: /log4j
 category: framework
 releasePolicyLink: https://logging.apache.org/log4j/2.x/security.html

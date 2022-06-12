@@ -1,5 +1,6 @@
 ---
 title: Amazon Kindle
+nav_exclude: true
 iconSlug: amazon
 category: device
 sortReleasesBy: releaseDate

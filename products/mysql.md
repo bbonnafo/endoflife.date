@@ -1,5 +1,6 @@
 ---
 title: MySQL
+nav_exclude: false
 category: db
 sortReleasesBy: "releaseCycle"
 changelogTemplate: "https://dev.mysql.com/doc/relnotes/mysql/__RELEASE_CYCLE__/en/news-__LATEST_SHORT_HAND__.html"

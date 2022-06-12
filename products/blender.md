@@ -1,6 +1,7 @@
 ---
 permalink: /blender
 title: Blender
+nav_exclude: true
 releasePolicyLink: https://www.blender.org
 releaseDateColumn: true
 releaseColumn: true

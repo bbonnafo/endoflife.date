@@ -1,5 +1,6 @@
 ---
 title: MariaDB
+nav_exclude: false
 permalink: /mariadb
 category: db
 releasePolicyLink: https://mariadb.org/about/maintenance-policy/

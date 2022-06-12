@@ -1,5 +1,6 @@
 ---
 title: Ember
+nav_exclude: true
 permalink: /emberjs
 iconSlug: emberdotjs
 alternate_urls:

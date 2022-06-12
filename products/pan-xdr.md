@@ -1,5 +1,6 @@
 ---
 title: Palo Alto Networks Cortex XDR agent
+nav_exclude: true
 category: app
 permalink: /cortexxdr
 releasePolicyLink: https://www.paloaltonetworks.com/services/support/end-of-life-announcements/end-of-life-summary

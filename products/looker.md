@@ -1,5 +1,6 @@
 ---
 title: Looker
+nav_exclude: true
 permalink: /looker
 category: server-app
 iconSlug: looker

@@ -1,5 +1,6 @@
 ---
 title: VMware ESXi
+nav_exclude: true
 category: os
 iconSlug: vmware
 permalink: /esxi

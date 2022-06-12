@@ -1,5 +1,6 @@
 ---
 title: Perl
+nav_exclude: true
 category: lang
 sortReleasesBy: "releaseCycle"
 changelogTemplate: "https://perldoc.perl.org/__LATEST__/perldelta"

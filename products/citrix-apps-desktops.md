@@ -1,5 +1,6 @@
 ---
 title: Citrix Virtual Apps and Desktops
+nav_exclude: true
 permalink: /citrix-vad
 alternate_urls:
 -   /citrixvad

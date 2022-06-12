@@ -1,5 +1,6 @@
 ---
 title: ROS
+nav_exclude: true
 permalink: /ros
 category: os
 releasePolicyLink: https://wiki.ros.org/Distributions

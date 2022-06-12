@@ -1,5 +1,6 @@
 ---
 title: Kotlin
+nav_exclude: true
 category: lang
 iconSlug: kotlin
 permalink: /kotlin

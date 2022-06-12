@@ -2,6 +2,7 @@
 permalink: /surface
 iconSlug: windows
 title: Microsoft Surface
+nav_exclude: true
 category: device
 releasePolicyLink: https://docs.microsoft.com/surface/surface-driver-firmware-lifecycle-support
 activeSupportColumn: false

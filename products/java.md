@@ -4,6 +4,7 @@ alternate_urls:
 -   /openjdk
 -   /jdk
 title: Java/OpenJDK
+nav_exclude: false
 category: lang
 versionCommand: java -version
 activeSupportColumn: true

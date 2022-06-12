@@ -1,5 +1,6 @@
 ---
 title: Visual Studio
+nav_exclude: true
 category: app
 sortReleasesBy: "cycleShortHand"
 releaseLabel: '__RELEASE_CYCLE__ __CODENAME__'

@@ -1,5 +1,6 @@
 ---
 title: Bootstrap
+nav_exclude: true
 permalink: /bootstrap
 category: framework
 sortReleasesBy: "releaseCycle"

@@ -6,6 +6,7 @@ alternative_urls:
 iconSlug: dotnet
 category: framework
 title: .NET Framework
+nav_exclude: true
 versionCommand: reg query "HKLM\SOFTWARE\Microsoft\Net Framework Setup\NDP" /s
 releasePolicyLink: https://dotnet.microsoft.com/download/dotnet-framework
 releaseColumn: false

@@ -1,5 +1,6 @@
 ---
 title: Roundcube Webmail
+nav_exclude: true
 permalink: /roundcube
 category: tool
 sortReleasesBy: "releaseCycle"

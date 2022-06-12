@@ -1,6 +1,7 @@
 ---
 permalink: /elixir
 title: Elixir
+nav_exclude: true
 versionCommand: elixir --version
 category: lang
 releasePolicyLink: https://hexdocs.pm/elixir/compatibility-and-deprecations.html

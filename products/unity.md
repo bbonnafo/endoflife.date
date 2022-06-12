@@ -1,6 +1,7 @@
 ---
 permalink: /unity
 title: Unity
+nav_exclude: true
 alternate_urls:
 -   /unity3d
 releasePolicyLink: https://unity3d.com/unity/qa/lts-releases

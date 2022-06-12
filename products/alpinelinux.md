@@ -3,6 +3,7 @@ permalink: /alpine
 alternate_urls:
 -   /alpinelinux
 title: Alpine Linux
+nav_exclude: true
 category: os
 releasePolicyLink: https://alpinelinux.org/releases/
 iconSlug: alpinelinux

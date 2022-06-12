@@ -1,5 +1,6 @@
 ---
 title: Symfony
+nav_exclude: true
 permalink: /symfony
 releasePolicyLink: https://symfony.com/roadmap
 activeSupportColumn: true

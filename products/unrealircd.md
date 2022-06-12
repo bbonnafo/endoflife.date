@@ -1,5 +1,6 @@
 ---
 title: UnrealIRCd
+nav_exclude: true
 category: server-app
 sortReleasesBy: "releaseCycle"
 activeSupportColumn: true

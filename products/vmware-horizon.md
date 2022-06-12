@@ -1,5 +1,6 @@
 ---
 title: VMware Horizon
+nav_exclude: true
 permalink: /horizon
 alternate_urls:
 -   /vmwarehorizon

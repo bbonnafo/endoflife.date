@@ -1,5 +1,6 @@
 ---
 title: Red Hat Enterprise Linux
+nav_exclude: false
 permalink: /rhel
 category: os
 iconSlug: redhat

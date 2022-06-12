@@ -1,5 +1,6 @@
 ---
 title: SUSE Linux Enterprise Server
+nav_exclude: true
 category: os
 sortReleasesBy: releaseDate
 changelogTemplate: https://www.suse.com/releasenotes/x86_64/SUSE-SLES/__CYCLE_SHORT_HAND__/

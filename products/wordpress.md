@@ -1,5 +1,6 @@
 ---
 title: WordPress
+nav_exclude: true
 category: server-app
 releasePolicyLink: https://codex.wordpress.org/Supported_Versions
 sortReleasesBy: "releaseCycle"

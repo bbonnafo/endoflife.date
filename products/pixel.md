@@ -1,6 +1,7 @@
 ---
 permalink: /pixel
 title: Google Pixel
+nav_exclude: true
 iconSlug: google
 category: device
 versionCommand: "Settings -> About Phone -> Regulatory labels"

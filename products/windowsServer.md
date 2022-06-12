@@ -1,5 +1,6 @@
 ---
 title: Windows Server
+nav_exclude: true
 permalink: /windowsserver
 iconSlug: windows
 releasePolicyLink: https://docs.microsoft.com/lifecycle/products/?terms=Windows%20Server

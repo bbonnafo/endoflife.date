@@ -1,5 +1,6 @@
 ---
 title: Django
+nav_exclude: true
 permalink: /django
 category: framework
 releasePolicyLink: https://www.djangoproject.com/download/#supported-versions

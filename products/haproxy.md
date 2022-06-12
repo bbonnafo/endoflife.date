@@ -1,5 +1,6 @@
 ---
 title: HAProxy
+nav_exclude: false
 permalink: /haproxy
 category: server-app
 releasePolicyLink: https://haproxy.org

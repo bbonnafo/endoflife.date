@@ -1,6 +1,7 @@
 ---
 permalink: /redis
 title: Redis
+nav_exclude: true
 category: db
 releasePolicyLink: https://redis.io/topics/releases
 changelogTemplate: https://raw.githubusercontent.com/antirez/redis/__RELEASE_CYCLE__/00-RELEASENOTES

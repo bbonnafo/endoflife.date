@@ -1,5 +1,6 @@
 ---
 title: Wagtail
+nav_exclude: true
 permalink: /wagtail
 category: framework
 releasePolicyLink: https://github.com/wagtail/wagtail/wiki/Release-schedule

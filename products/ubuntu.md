@@ -1,6 +1,7 @@
 ---
 permalink: /ubuntu
 title: Ubuntu
+nav_exclude: false
 versionCommand: lsb_release --release
 category: os
 releasePolicyLink: https://wiki.ubuntu.com/Releases

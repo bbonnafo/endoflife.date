@@ -1,5 +1,6 @@
 ---
 title: Splunk
+nav_exclude: true
 permalink: /splunk
 category: server-app
 iconSlug: splunk

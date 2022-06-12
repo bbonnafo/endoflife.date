@@ -1,5 +1,6 @@
 ---
 title: Windows Embedded
+nav_exclude: true
 permalink: /windowsembedded
 iconSlug: windows
 releasePolicyLink: https://docs.microsoft.com/lifecycle/products/?terms=Windows%20Embedded

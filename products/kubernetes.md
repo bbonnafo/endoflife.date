@@ -1,6 +1,7 @@
 ---
 permalink: /kubernetes
 title: Kubernetes
+nav_exclude: true
 category: server-app
 versionCommand: kubectl version
 releasePolicyLink: https://kubernetes.io/releases/patch-releases/

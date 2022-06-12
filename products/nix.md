@@ -1,5 +1,6 @@
 ---
 title: nix
+nav_exclude: true
 category: app
 iconSlug: nixos
 permalink: /nix

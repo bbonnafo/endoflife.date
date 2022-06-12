@@ -1,6 +1,7 @@
 ---
 permalink: /python
 title: Python
+nav_exclude: true
 category: lang
 versionCommand: python --version
 releasePolicyLink: https://devguide.python.org/

@@ -1,5 +1,6 @@
 ---
 title: RabbitMQ
+nav_exclude: false
 permalink: /rabbitmq
 category: server-app
 releasePolicyLink: https://www.rabbitmq.com/versions.html

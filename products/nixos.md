@@ -1,5 +1,6 @@
 ---
 title: NixOS
+nav_exclude: true
 category: os
 iconSlug: nixos
 permalink: /nixos

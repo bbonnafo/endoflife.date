@@ -1,5 +1,6 @@
 ---
 title: Google Kubernetes Engine
+nav_exclude: true
 category: service
 sortReleasesBy: "releaseCycle"
 changelogTemplate: https://cloud.google.com/kubernetes-engine/docs/release-notes-nochannel

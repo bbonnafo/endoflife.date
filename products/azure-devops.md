@@ -1,5 +1,6 @@
 ---
 title: Azure DevOps
+nav_exclude: true
 permalink: /azure-devops
 alternate_urls:
 -   /tfs

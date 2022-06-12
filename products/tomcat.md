@@ -1,5 +1,6 @@
 ---
 title: Apache Tomcat
+nav_exclude: false
 permalink: /tomcat
 iconSlug: apachetomcat
 releasePolicyLink: https://tomcat.apache.org/whichversion.html

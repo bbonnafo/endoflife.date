@@ -1,5 +1,6 @@
 ---
 title: Composer
+nav_exclude: true
 category: app
 sortReleasesBy: "releaseCycle"
 changelogTemplate: "https://getcomposer.org/changelog/__LATEST__"

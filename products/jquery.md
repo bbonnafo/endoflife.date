@@ -1,5 +1,6 @@
 ---
 title: jQuery
+nav_exclude: true
 category: framework
 sortReleasesBy: "releaseCycle"
 auto:

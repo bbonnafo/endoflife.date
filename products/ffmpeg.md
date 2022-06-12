@@ -1,5 +1,6 @@
 ---
 title: FFmpeg
+nav_exclude: true
 permalink: /ffmpeg
 category: framework
 icon: FFmpeg

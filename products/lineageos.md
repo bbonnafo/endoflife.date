@@ -1,5 +1,6 @@
 ---
 title: LineageOS
+nav_exclude: true
 category: os
 sortReleasesBy: "releaseCycle"
 releases:

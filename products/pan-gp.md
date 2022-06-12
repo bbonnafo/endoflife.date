@@ -1,5 +1,6 @@
 ---
 title: Palo Alto Networks GlobalProtect App
+nav_exclude: true
 category: app
 permalink: /pangp
 releasePolicyLink: https://www.paloaltonetworks.com/services/support/end-of-life-announcements/end-of-life-summary

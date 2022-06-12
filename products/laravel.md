@@ -1,5 +1,6 @@
 ---
 title: Laravel
+nav_exclude: true
 permalink: /laravel
 category: framework
 releasePolicyLink: https://laravel.com/docs/9.x/releases#support-policy

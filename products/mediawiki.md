@@ -1,5 +1,6 @@
 ---
 title: MediaWiki
+nav_exclude: true
 category: server-app
 sortReleasesBy: "releaseCycle"
 changelogTemplate: "https://www.mediawiki.org/wiki/Release_notes/__RELEASE_CYCLE__"

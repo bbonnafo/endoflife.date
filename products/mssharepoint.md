@@ -1,5 +1,6 @@
 ---
 title: Microsoft SharePoint
+nav_exclude: true
 permalink: /sharepoint
 alternate_urls:
 -   /mssharepoint

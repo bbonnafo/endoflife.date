@@ -1,5 +1,6 @@
 ---
 title: Microsoft Office
+nav_exclude: true
 permalink: /office
 alternate_urls:
 -   /msoffice

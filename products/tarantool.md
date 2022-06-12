@@ -1,6 +1,7 @@
 ---
 permalink: /tarantool
 title: Tarantool
+nav_exclude: true
 versionCommand: $ tarantool --version
 releaseImage: https://hb.bizmrg.com/tarantool-io/doc-builds/tarantool/latest/images_en/releases_calendar.svg
 releasePolicyLink: https://www.tarantool.io/en/doc/latest/release/policy/

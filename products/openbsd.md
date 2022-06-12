@@ -1,6 +1,7 @@
 ---
 permalink: /openbsd
 title: OpenBSD
+nav_exclude: true
 category: os
 versionCommand: uname -r
 activeSupportColumn: false

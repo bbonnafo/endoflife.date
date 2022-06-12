@@ -1,5 +1,6 @@
 ---
 title: React
+nav_exclude: true
 permalink: /react
 iconSlug: react
 category: framework

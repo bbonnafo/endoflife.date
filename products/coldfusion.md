@@ -1,5 +1,6 @@
 ---
 title: Adobe ColdFusion
+nav_exclude: true
 category: server-app
 permalink: /coldfusion
 releasePolicyLink: https://helpx.adobe.com/support/programs/eol-matrix.html

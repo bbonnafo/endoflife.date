@@ -1,6 +1,7 @@
 ---
 permalink: /debian
 title: Debian
+nav_exclude: false
 versionCommand: cat /etc/os-release
 category: os
 releasePolicyLink: https://wiki.debian.org/DebianReleases

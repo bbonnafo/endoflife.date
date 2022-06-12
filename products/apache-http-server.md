@@ -1,5 +1,6 @@
 ---
 title: Apache HTTP Server
+nav_exclude: false
 permalink: /apache
 alternate_urls:
 -   /httpd

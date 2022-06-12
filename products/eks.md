@@ -1,5 +1,6 @@
 ---
 title: Amazon EKS
+nav_exclude: true
 category: service
 sortReleasesBy: "releaseCycle"
 changelogTemplate: "https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#kubernetes-__RELEASE_CYCLE__"

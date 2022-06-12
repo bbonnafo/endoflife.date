@@ -1,5 +1,6 @@
 ---
 title: Vue
+nav_exclude: true
 permalink: /vue
 alternate_urls:
 -   /vuejs

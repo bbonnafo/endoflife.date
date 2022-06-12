@@ -1,6 +1,7 @@
 ---
 permalink: /ruby
 title: Ruby
+nav_exclude: true
 versionCommand: ruby --version
 releasePolicyLink: https://www.ruby-lang.org/en/downloads/releases/
 changelogTemplate: |

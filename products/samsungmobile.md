@@ -1,6 +1,7 @@
 ---
 permalink: /samsung-mobile
 title: Samsung Mobile
+nav_exclude: true
 category: device
 iconSlug: samsung
 releasePolicyLink: https://security.samsungmobile.com/workScope.smsb

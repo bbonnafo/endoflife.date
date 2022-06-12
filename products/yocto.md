@@ -1,5 +1,6 @@
 ---
 title: Yocto Project
+nav_exclude: true
 category: os
 sortReleasesBy: "cycleShortHand"
 changelogTemplate: |

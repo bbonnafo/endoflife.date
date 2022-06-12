@@ -1,5 +1,6 @@
 ---
 title: Magento
+nav_exclude: true
 permalink: /magento
 category: server-app
 releasePolicyLink: https://magento.com/tech-resources/download

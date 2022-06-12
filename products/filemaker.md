@@ -1,5 +1,6 @@
 ---
 title: FileMaker
+nav_exclude: true
 category: app
 permalink: /filemaker
 releasePolicyLink: https://www.filemaker.com/support/product-availability.html

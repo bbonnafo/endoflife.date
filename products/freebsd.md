@@ -1,6 +1,7 @@
 ---
 permalink: /freebsd
 title: FreeBSD
+nav_exclude: true
 category: os
 releasePolicyLink: https://www.freebsd.org/security/#sup
 activeSupportColumn: false

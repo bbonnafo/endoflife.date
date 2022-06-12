@@ -3,6 +3,7 @@ permalink: /openzfs
 alternate_urls:
 -   /zfs
 title: OpenZFS
+nav_exclude: true
 category: app
 versionCommand: zpool get version [zpool name]
 releasePolicyLink: https://github.com/openzfs/zfs/blob/master/RELEASES.md

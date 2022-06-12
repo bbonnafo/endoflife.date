@@ -1,5 +1,6 @@
 ---
 title: macOS
+nav_exclude: true
 alternate_urls:
 -   /mac
 category: os

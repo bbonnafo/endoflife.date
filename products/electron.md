@@ -1,5 +1,6 @@
 ---
 title: Electron
+nav_exclude: true
 category: framework
 changelogTemplate: |
   https://www.electronjs.org/releases/stable?version={{"__LATEST__" | split:'.' | first}}#__LATEST__

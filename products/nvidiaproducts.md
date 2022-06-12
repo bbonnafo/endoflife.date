@@ -1,5 +1,6 @@
 ---
 title: NVIDIA GPUs
+nav_exclude: true
 permalink: /nvidia-gpu
 alternate_urls:
 -   /nvidia-products

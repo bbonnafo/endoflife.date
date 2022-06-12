@@ -1,6 +1,7 @@
 ---
 permalink: /centos
 title: CentOS
+nav_exclude: false
 category: os
 versionCommand: lsb_release --release
 releasePolicyLink: https://wiki.centos.org/About/Product

@@ -1,5 +1,6 @@
 ---
 title: Moodle
+nav_exclude: true
 category: server-app
 
 sortReleasesBy: "support"

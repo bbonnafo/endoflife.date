@@ -5,6 +5,7 @@ alternate_urls:
 -   /node.js
 category: lang
 title: Node.js
+nav_exclude: true
 iconSlug: nodedotjs
 releasePolicyLink: https://nodejs.org/about/releases/
 releaseImage: https://raw.githubusercontent.com/nodejs/Release/master/schedule.svg?sanitize=true

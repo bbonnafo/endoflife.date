@@ -2,6 +2,7 @@
 permalink: /powershell
 category: app
 title: PowerShell
+nav_exclude: true
 versionCommand: pwsh -v
 releasePolicyLink: https://docs.microsoft.com/lifecycle/products/powershell
 changelogTemplate: https://github.com/PowerShell/PowerShell/blob/master/CHANGELOG/__RELEASE_CYCLE__.md

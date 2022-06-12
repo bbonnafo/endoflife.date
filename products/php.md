@@ -1,5 +1,6 @@
 ---
 title: PHP
+nav_exclude: false
 permalink: /php
 category: lang
 releasePolicyLink: https://www.php.net/supported-versions.php

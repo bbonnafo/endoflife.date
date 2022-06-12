@@ -1,5 +1,6 @@
 ---
 title: Consul
+nav_exclude: true
 permalink: /consul
 category: server-app
 iconSlug: consul

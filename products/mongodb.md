@@ -1,5 +1,6 @@
 ---
 title: MongoDB Server
+nav_exclude: false
 permalink: /mongodb
 category: db
 releasePolicyLink: https://www.mongodb.com/support-policy

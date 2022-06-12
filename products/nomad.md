@@ -1,5 +1,6 @@
 ---
 title: Nomad
+nav_exclude: true
 permalink: /nomad
 iconSlug: "NA"
 category: server-app
