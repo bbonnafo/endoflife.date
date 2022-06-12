@@ -1,5 +1,6 @@
 ---
 layout: default
+locale: fr
 ---
 
 {% if page.releaseImage %}
@@ -11,12 +12,12 @@ layout: default
 <table class="lifecycle">
   <thead>
     <tr>
-      <th>Release</th>
-      {% if page.releaseDateColumn%}<th>Released</th>{% endif %}
-      {% if page.discontinuedColumn%}<th>Discontinued</th>{% endif %}
-      {% if page.activeSupportColumn%}<th>Active Support</th>{% endif %}
-      <th>{{ page.eolColumn | default: "Security Support" }}</th>
-      {% if page.releaseColumn != false %}<th>Latest</th>{% endif %}
+      <th>Version</th>
+      {% if page.releaseDateColumn%}<th>Sortie</th>{% endif %}
+      {% if page.discontinuedColumn%}<th>Terminée</th>{% endif %}
+      {% if page.activeSupportColumn%}<th>Support Actif</th>{% endif %}
+      <th>{{ page.eolColumn | default: "Support Sécurité" }}</th>
+      {% if page.releaseColumn != false %}<th>Dernière version</th>{% endif %}
     </tr>
   </thead>
 {% assign sorted_releases = page.releases | sort: page.sortReleasesBy | reverse  %}
@@ -78,12 +79,12 @@ or +1 (EoL is in the future)
   <td class="{% unless r.discontinued %}bg-green-000{% endunless %}">
     {% if r.discontinued %}
       {% if r.discontinued == true%}
-        Discontinued
+        Terminé
       {% else %}
         {{r.discontinued | timeago}} <div>({{r.discontinued | date_to_string}})</div>
       {% endif %}
     {% else %}
-      In Production
+      En Production
     {% endif %}
   </td>
   {% endif %}
@@ -108,16 +109,16 @@ or +1 (EoL is in the future)
     title="{{r.support}}">
     {% if support > 5 %}
       {% if diffSupport < 0 %}
-        Ended
+        Terminé
       {% else %}
-        Ends
+        Se termine
       {% endif %}
     {{r.support | timeago}} <div>({{r.support | date_to_string}})</div>
     {% else %}
       {% if r.support %}
-      Yes
+      Oui
       {% else %}
-      No
+      Non
       {% endif %}
     {% endif %}
     </td>
@@ -142,16 +143,16 @@ or +1 (EoL is in the future)
   title="{{r.eol}}">
     {% if securityFixes > 5 %}
       {% if diff < 0 %}
-        Ended
+        Terminé
       {% else %}
-        Ends
+        Se termine
       {% endif %}
     {{r.eol | timeago}} <div>({{r.eol | date_to_string}})</div>
     {% else %}
       {% if r.eol %}
-      No
+      Non
       {% else %}
-      Yes
+      Oui
       {% endif %}
     {% endif %}
   </td>
@@ -177,7 +178,7 @@ or +1 (EoL is in the future)
 
 <div class="maincontent">{{content}}</div>
 {% if page.releasePolicyLink and page.releasePolicyLink != "" %}
-<p>More information is available on the <a href="{{page.releasePolicyLink}}">{{page.title}} website</a>. </p>
+<p>Pour plus d'information, voir la page <a href="{{page.releasePolicyLink}}">{{page.title}}</a>. </p>
 {% endif %}
 
 {% if page.releaseColumn != false %}<p>You should be running one of the supported release numbers listed above in the rightmost column.</p>{% endif %}
@@ -186,10 +187,8 @@ or +1 (EoL is in the future)
 
 <hr>
 
-<p>You can submit an improvement to this page
+<p>Vous pouvez proposer des modifications sur cette page via
 <a href="https://github.com/endoflife-date/endoflife.date/blob/master/{{page.path}}"
-title="Click the Pencil, the link takes you directly to the correct page">on GitHub</a>. This page has a corresponding <a title="Talk Page for {{page.title}}" href="https://github.com/endoflife-date/talk/wiki{{page.permalink}}">Talk Page</a>.</p>
+title="Click the Pencil, the link takes you directly to the correct page">sur le gitlab Forge</a>.</p>
 
-<p>A JSON version of this page is available at <a href="/api{{page.permalink}}.json">/api{{page.permalink}}.json</a>. See the <a href="/docs/api/">API Documentation</a> for more.</p>
-
-{%if page.auto %}Latest releases on this page are automatically updated{% endif %}
+<p>Une version JSON est disponibe ici : <a href="/api{{page.permalink}}.json">/api{{page.permalink}}.json</a>.</p>
