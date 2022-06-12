@@ -1,6 +1,6 @@
 title: endoflife.date
 baseurl: /
-url: https://endoflife.date
+url: http://localhost
 markdown: kramdown
 plugins:
   - jekyll-feed
