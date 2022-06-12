@@ -1,4 +1,4 @@
-title: endoflife.date
+title: Fin de vie (CH)
 baseurl: /
 url: http://localhost
 markdown: kramdown
@@ -44,6 +44,10 @@ jekyll_timeago:
   # See https://github.com/markets/jekyll-timeago/pull/24
   # for what this does
   threshold: 0.1
+  default_locale: "fr"
+  available_locales:
+    - "fr"
+
 # Cause a build to fail if there is a YAML syntax error in a page's front matter.  (#40)
 strict_front_matter: true
 defaults:
